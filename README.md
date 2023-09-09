@@ -1,6 +1,8 @@
 # reaction-test-game
-https://alex-unnippillil.github.io/reaction-test-game/
 
+
+https://alex-unnippillil.github.io/reaction-test-game/
+press the red button as it appears to determine your reaction speed
 
 
 
